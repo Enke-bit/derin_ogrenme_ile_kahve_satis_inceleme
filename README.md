@@ -78,4 +78,9 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 - Satış kar takibi.
 
 
+## Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır. Ayrıntılar için LICENSE dosyasına bakınız.
+
+## Destek
+Çalışmaya Pull ve Request açabilirsiniz ve bana profildeki mail üzerinden ulaşabilir siniz.
 
